@@ -17,7 +17,7 @@
         "mobiledetect/mobiledetectlib": "2.*",
         "muffin/crypt": "^0.1.0",
         "muffin/trash": "^2.1",
-        "paragonie/certainty": "^1",
+        "paragonie/certainty": "^2.5",
         "paragonie/halite": "^4",
         "paragonie/sapient": "^1.0",
         "roave/security-advisories": "dev-master",
